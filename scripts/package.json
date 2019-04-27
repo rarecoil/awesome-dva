@@ -1,0 +1,30 @@
+{
+  "name": "awesome-dva",
+  "version": "1.0.0",
+  "description": "Compiles the TOC file for rarecoil/awesome-dva.",
+  "main": "update-dva.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarecoil/awesome-dva.git"
+  },
+  "keywords": [
+    "awesome-list",
+    "awesome",
+    "dva",
+    "infosec",
+    "vulnerable-app",
+    "owasp-vwad"
+  ],
+  "author": "rarecoil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rarecoil/awesome-dva/issues"
+  },
+  "homepage": "https://github.com/rarecoil/awesome-dva#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
