@@ -1,12 +1,14 @@
 # awesome-dva
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 DVA (no, not [D.VA](https://playoverwatch.com/en-us/heroes/dva/)), or **d**amn **v**ulnerable **a**pps, are web applications and VMs that exist
 to help infosec students and practitioners hone exploitation skills in an environment that is not
 competitive like a CTF or online like a wargame. This is a list of various downloadable applications
 and wargames.
 
 This is a port of [OWASP VWAD](https://github.com/OWASP/OWASP-VWAD) to the [Awesome list framework](https://github.com/sindresorhus/awesome). See [/scripts/update-dva.js](https://github.com/rarecoil/awesome-dva) for the script that ports this from VWAD to Markdown. To contribute, contribute upstream to OWASP-VWAD and this will
-be updated.
+be updated. This content is licensed Apache 2.0 per OWASP-VWAD.
 
 
 ## Table of Contents
