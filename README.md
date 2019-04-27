@@ -1,6 +1,4 @@
-# awesome-dva
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# awesome-dva [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 DVA (no, not [D.VA](https://playoverwatch.com/en-us/heroes/dva/)), or **d**amn **v**ulnerable **a**pps, are web applications and VMs that exist
 to help infosec students and practitioners hone exploitation skills in an environment that is not
